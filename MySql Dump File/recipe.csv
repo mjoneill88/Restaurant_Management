@@ -1,0 +1,7 @@
+"id";"quantity";"name";"entree_domain_id";"inventory_domain_id"
+4;12.0;"Tomato";2;4
+12;5.0;"Onion";1;4
+13;5.0;"Tomato";1;5
+23;12.0;"Onion";24;4
+24;2.0;"Tomato";24;5
+25;23.0;"Bread";24;6

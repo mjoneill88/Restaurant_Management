@@ -1,0 +1,14 @@
+"id";"name";"price";"restaurant_id";"recipe_id";"restaurant_domain_id"
+1;"Chicken Meal Box";9.0;1;4;1
+2;"Veggy Meal Box";7.0;1;0;1
+6;"Chicken Sandwich";3.0;2;0;2
+7;"Cookie";2.0;2;0;2
+10;"Soda";2.0;2;0;2
+13;"new entree";23.0;0;0;0
+14;"updatenew";1.0;0;0;0
+15;"smohv";4523.0;0;0;0
+16;"hello";12.0;1;0;1
+17;"new entree";14.0;0;0;1
+18;"jyfk";24.0;0;0;15
+20;"sandwich";12.0;0;0;14
+24;"test123";12.0;0;0;1
